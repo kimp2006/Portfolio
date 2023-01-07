@@ -1,0 +1,65 @@
+<resources>
+    <!--  Base strings for MainActivity  -->
+    <string name="app_name">Portfolio</string>
+    <string name="app_author">Created by Timoshenkov Pavel</string>
+
+    <!--  Base strings for ProjectActivity  -->
+    <string name="project_example_title">My project</string>
+    <string name="project_example_description">Description</string>
+    <string name="project_example_text">Text</string>
+
+    <!--  All my projects names  -->
+    <string-array name="all_projects_names">
+        <item>Notes</item>
+        <item>Calculator</item>
+        <item>Ping-pong</item>
+        <item>Portfolio</item>
+    </string-array>
+
+    <!--  All my projects descriptions  -->
+    <string-array name="all_projects_descriptions">
+        <item>Mobile app for taking notes without using a database</item>
+        <item>Mobile app with wide computing functionality</item>
+        <item>Classic mobile ping pong game</item>
+        <item>Mobile app for portfolio management</item>
+    </string-array>
+
+    <!--  All my projects titles  -->
+    <string name="project_git_title">GitHub link:</string>
+    <string name="project_date_title">Date of creation:</string>
+    <string name="project_stack_title">Stack:</string>
+    <string name="project_activities_title">Number of activities:</string>
+    <string name="project_preview_title">App screenshot preview:</string>
+
+    <!--  All my projects creation dates  -->
+    <string-array name="project_creation_date">
+        <item>October, 2022</item>
+        <item>October, 2022</item>
+        <item>December, 2022</item>
+        <item>December, 2022</item>
+    </string-array>
+
+    <!--  All my projects github links  -->
+    <string-array name="project_github_link">
+        <item>https://github.com/kimp2006/Notes.git</item>
+        <item>https://github.com/kimp2006/CalcApp.git</item>
+        <item>https://github.com/kimp2006</item>
+        <item>https://github.com/kimp2006</item>
+    </string-array>
+
+    <!--  All my projects main stack  -->
+    <string-array name="project_stack">
+        <item>Java, XML</item>
+        <item>Java, XML</item>
+        <item>Java, XML</item>
+        <item>Java, XML</item>
+    </string-array>
+
+    <!--  All my projects number of activities  -->
+    <string-array name="project_num_activity">
+        <item>Two activities: Main, Notes</item>
+        <item>One activity: Main</item>
+        <item>Two activities: Main, Game</item>
+        <item>Two activities: Main, Project</item>
+    </string-array>
+</resources>
