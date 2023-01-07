@@ -42,9 +42,9 @@
     <!--  All my projects github links  -->
     <string-array name="project_github_link">
         <item>https://github.com/kimp2006/Notes.git</item>
-        <item>https://github.com/kimp2006/CalcApp.git</item>
+        <item>https://github.com/kimp2006/Calculator.git</item>
         <item>https://github.com/kimp2006</item>
-        <item>https://github.com/kimp2006</item>
+        <item>https://github.com/kimp2006/Portfolio.git</item>
     </string-array>
 
     <!--  All my projects main stack  -->
